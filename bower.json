@@ -1,0 +1,19 @@
+{
+  "name": "bug-reproduction-knockout-pure-computed",
+  "homepage": "https://github.com/d-ph/bug-reproduction-knockout-pure-computed",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "3.1.1",
+    "knockout": "3.4.1"
+  }
+}
